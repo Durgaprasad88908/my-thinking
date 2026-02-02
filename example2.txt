@@ -1,6 +1,6 @@
 #include<stadio.h>
 int main()
 {
-    printf("astc");
+    printf("abcd");
     return o;
 }
